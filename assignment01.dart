@@ -18,6 +18,7 @@ void main() {
   print('-------------------------');
   print('multiplication table of 2');
   print('-------------------------');
+  
   print('2 * 1 = 2');
   print('2 * 2 = 4');
   print('2 * 3 = 6');
@@ -32,6 +33,7 @@ void main() {
   print('-------------------------');
   print('multiplication table of 3');
   print('-------------------------');
+  
   print('3 * 1 = 3');
   print('3 * 2 = 6');
   print('3 * 3 = 9');
@@ -72,6 +74,7 @@ void main() {
   print('5 * 8 = 40');
   print('5 * 9 = 45');
   print('5 * 10 = 50');
+  
   print('-------------------------');
   print('multiplication table of 6');
   print('-------------------------');
@@ -101,6 +104,7 @@ void main() {
   print('7 * 8 = 56');
   print('7 * 9 = 63');
   print('7 * 10 = 70');
+  
   print('-------------------------');
   print('multiplication table of 8');
   print('-------------------------');
