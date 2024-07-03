@@ -40,5 +40,6 @@ class Letter extends Grade{
 void main(){
   var show=Letter();
   show.result();
+
 }
 
